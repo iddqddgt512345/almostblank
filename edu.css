@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap');
+
+body {
+    background-color: rgb(41, 41, 41);
+}
+.photo {
+width: 300px;
+    border-radius: 50% 50%;
+display:block;
+margin-left: auto;
+margin-right: auto;
+}
+.name {
+    font-family:'roboto';
+    font-weight: 600;
+    font-size: 70px;
+    color: rgb(55, 198, 241);
+    margin-left: 670px;
+    margin-bottom: 1px;
+}
+.text {
+    color: rgb(238, 238, 238);
+    font-size: 35px;
+    font-family: 'roboto';
+    font-weight: 400;
+    margin-left: 600px;
+    margin-top: 1px;
+}
+.friends {
+    color:aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+    margin-left: 700px;
+}
+.friends:hover {
+    color: pink;
+}
+.list {
+    font-size: 50px;
+ font-family: impact;
+ margin-left: 600px;
+}
